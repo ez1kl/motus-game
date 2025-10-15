@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+out/
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.cbp
+*.depend
+*.layout
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Saves and logs
+save.txt
+scores.txt
+*.log
+
+# Compiled files
+*.o
+*.exe
+*.out
+*.app
